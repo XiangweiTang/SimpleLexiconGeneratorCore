@@ -1,0 +1,67 @@
+﻿Consonant	Plosives	p	p	1
+Consonant	Plosives	b	b	1
+Consonant	Plosives	t	t	1
+Consonant	Plosives	d	d	1
+Consonant	Plosives	k	k	1
+Consonant	Plosives	g	g	1
+Consonant	Plosives	?	?	1
+Consonant	Affricates	p_f	pf͡	1
+Consonant	Affricates	t_s	ts͡	1
+Consonant	Affricates	t_S	ʧ͡	1
+Consonant	Affricates	d_Z	d͡ʒ	1
+Consonant	Nasals	m	m	1
+Consonant	Nasals	n	n	1
+Consonant	Nasals	N	ŋ	1
+Consonant	Fricatives	f	f	2
+Consonant	Fricatives	v	v	2
+Consonant	Fricatives	s	s	2
+Consonant	Fricatives	z	z	2
+Consonant	Fricatives	S	ʃ	2
+Consonant	Fricatives	Z	ʒ	2
+Consonant	Fricatives	C	ç	2
+Consonant	Fricatives	x	x	2
+Consonant	Fricatives	R	ʁ	2
+Consonant	Fricatives	h	h	2
+Consonant	Approximants	j	j	2
+Consonant	Lateral Approximant	l	l	2
+Consonant	Syllabic Consonants	m=	m̩	2
+Consonant	Syllabic Consonants	n=	n̩	2
+Consonant	Syllabic Consonants	l=	l̩	2
+Vowels	Short Vowels	I	ɪ	3
+Vowels	Short Vowels	Y	ʏ	3
+Vowels	Short Vowels	U	ʊ	3
+Vowels	Short Vowels	E	ɛ	3
+Vowels	Short Vowels	9	œ	3
+Vowels	Short Vowels	O	ɔ	3
+Vowels	Short Vowels	a	a	3
+Vowels	Central Vowels	@	ə	3
+Vowels	Central Vowels	6	ɐ	3
+Vowels	Long Vowels	i:	iː	3
+Vowels	Long Vowels	y:	yː	3
+Vowels	Long Vowels	u:	uː	3
+Vowels	Long Vowels	e:	eː	3
+Vowels	Long Vowels	2:	øː	3
+Vowels	Long Vowels	o:	oː	3
+Vowels	Long Vowels	E:	ɛː	3
+Vowels	Long Vowels	a:	aː	3
+Vowels	Diphthongs	aI	a͡I	4
+Vowels	Diphthongs	aU	a͡U	4
+Vowels	Diphthongs	OY	O͡Y	4
+Vowels	Additional Cent. Diphthongs	i:6	iː͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	y:6	y:͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	Y6	ʏ͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	u:6	u:͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	I6	ɪ͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	U6	ʊ͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	e:6	e:͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	2:6	øː͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	o:6	o:͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	E6	ɛ͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	E:6	ɛː͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	96	œ͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	O6	ɔ͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	a:6	aː͡ɐ̯	4
+Vowels	Additional Cent. Diphthongs	a6	a͡͡ɐ̯	4
+Speical Tag	Speical Tag	"	Primary stress	1
+Speical Tag	Speical Tag	.	Syllable boundary	1
+Speical Tag	Speical Tag	#	Word boundary	1

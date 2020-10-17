@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+	<UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Internal\ICON.png" />
+    <None Remove="Internal\Phonetics.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Internal\Phonetics.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Internal\ICON.png" />
+  </ItemGroup>
+
+</Project>
